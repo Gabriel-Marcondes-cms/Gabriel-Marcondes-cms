@@ -1,7 +1,7 @@
 #👨🏾‍💻 Gabriel Conceição
 **`Desenvolvedor Back-End / Full Stack`**
 
-Me chamo Gabriel Conceição Marcondes da Silva, tenho 22 anos e sou natural do Rio de Janeiro, conclui o ensino médio no Ícone Colégio e Curso. Atualmente estou cursando Ciência da Computação na Estácio. Tenho como prioridade aprimorar as minhas habilidades de Desenvolvedor constantemente, segue o link do meu "[Linkedin](https://www.linkedin.com/in/gabrielcmarcondes/)".
+Me chamo Gabriel Conceição Marcondes da Silva, tenho 22 anos e sou natural do Rio de Janeiro, conclui o ensino médio no Ícone Colégio e Curso. Atualmente estou cursando Ciência da Computação na Estácio. Tenho como prioridade atuar na área de analise e desenvolvimento de sistemas como Full Stack, segue o link do meu "[Linkedin](https://www.linkedin.com/in/gabrielcmarcondes/)".
 
   <p align="left">
     <a href="https://github.com/Gabriel-Marcondes-cms?tab=followers">
